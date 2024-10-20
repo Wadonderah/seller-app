@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311616737035",
+    "project_id": "ifood-81995",
+    "storage_bucket": "ifood-81995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311616737035:android:df850071c9f855fba31c0e",
+        "android_client_info": {
+          "package_name": "com.wadondera.sellersapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4L-u9pBJRSOPSbSRolPm1CuNbkqxxvoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
